@@ -1,1 +1,3 @@
 # DigitalGreenCropYeildEstimateChallenge
+
+## folder setup
