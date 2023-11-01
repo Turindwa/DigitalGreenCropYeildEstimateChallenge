@@ -11,7 +11,7 @@ Digital Green is a global development organization that empowers smallholder far
 ## Setup
 1. Create a virtual environment for python 3.10.2.
 - Create a virtual env `python -m venv venv`
-- Activate virtual env on windows `h` on linux `source venv-test/bin/activate`
+- Activate virtual env on windows `venv/Scripts/Activate.ps1` on linux `source venv-test/bin/activate`
 2. Install requirements  using a command like this one. `pip install -r requirements.txt`
 3. 
 
